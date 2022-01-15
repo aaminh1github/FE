@@ -1,0 +1,20 @@
+//
+//  ItemsCell.swift
+//  Amnah'sFinalExam
+//
+//  Created by amnah alhwaiml on 11/06/1443 AH.
+//
+
+import UIKit
+
+class ItemsCell: UIView {
+
+    /*
+    // Only override draw() if you perform custom drawing.
+    // An empty implementation adversely affects performance during animation.
+    override func draw(_ rect: CGRect) {
+        // Drawing code
+    }
+    */
+
+}
